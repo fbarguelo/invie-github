@@ -1,2 +1,2 @@
 # invie-github
-proyecto aprender - tus mejores gitarras
+proyecto aprender - tus mejores gitarras - curso platzi
